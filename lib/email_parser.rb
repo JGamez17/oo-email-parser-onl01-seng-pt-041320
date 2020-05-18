@@ -10,3 +10,5 @@ def initialize(emails)
   @email = emails
 end 
 
+end
+
