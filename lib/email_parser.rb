@@ -10,7 +10,6 @@ def self.new_from_csv(emails)
  @emails = emails
 end
   
-  def parse
-  end
+  
 end 
 
