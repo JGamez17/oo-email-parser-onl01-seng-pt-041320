@@ -13,7 +13,3 @@ class EmailAddressParser
 end
 
 
-
-email_addresses = "john@doe.com, person@somewhere.org, john@doe.com"
-
-email_addresses.delete(",").split.uniq
